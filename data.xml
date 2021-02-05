@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<vpt>
+  <link>
+    <id>dino.goblin@goid</id>
+    <name>ahihi</name>
+    <linkacc>http://s3.vuaphapthuat.goplay.vn/s/s40/GameLoader.swf?user=dino.goblin@goid&amp;pass=d4748a7a1dc44890d46ad42db0aa4f57&amp;version=0.9.9a33.271&amp;isExpand=true</linkacc>
+    <sv>s40</sv>
+  </link>
+  <link>
+    <id>thanhdn2022@goid</id>
+    <name>xt</name>
+    <linkacc>http://s3.vuaphapthuat.goplay.vn/s/s40/GameLoader.swf?user=thanhdn2022@goid&amp;pass=775c2c1b67b13ae6c9130708179ebcf3&amp;version=0.9.9a33.271&amp;isExpand=true</linkacc>
+    <sv>s40</sv>
+  </link>
+  <link>
+    <id>thanhdn2023@goid</id>
+    <name>quang02</name>
+    <linkacc>http://s3.vuaphapthuat.goplay.vn/s/s40/GameLoader.swf?user=thanhdn2023@goid&amp;pass=d5c1a4f8309319423006ee8e8e1ba082&amp;version=0.9.9a33.271&amp;isExpand=true</linkacc>
+    <sv>s40</sv>
+  </link>
+  <link>
+    <id>dino.rikimaru@goid</id>
+    <name>riki</name>
+    <linkacc>http://s3.vuaphapthuat.goplay.vn/s/s40/GameLoader.swf?user=dino.rikimaru@goid&amp;pass=ee405f1530922063c8ba896deeb4d9c0&amp;version=0.9.9a33.271&amp;isExpand=true</linkacc>
+    <sv>s40</sv>
+  </link>
+  <link>
+    <id>manh.2305@goid</id>
+    <name>quang</name>
+    <linkacc>http://s3.vuaphapthuat.goplay.vn/s/s40/GameLoader.swf?user=manh.2305@goid&amp;pass=985470cfb15329e712f9dabb7afd4cdb&amp;version=0.9.9a33.271&amp;isExpand=true</linkacc>
+    <sv>s40</sv>
+  </link>
+  <link>
+    <id>rongconngannam</id>
+    <name>DY</name>
+    <linkacc>http://s3.vuaphapthuat.goplay.vn/s/s40/GameLoader.swf?user=rongconngannam&amp;pass=0ab05d31e66a79f08bc2f2f196128c82&amp;version=0.9.9a33.271&amp;isExpand=true</linkacc>
+    <sv>s40</sv>
+  </link>
+</vpt>
